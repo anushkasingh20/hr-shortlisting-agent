@@ -1,0 +1,21 @@
+
+Arjun Mehta
+arjun.mehta@gmail.com | +91 87654 32109
+
+ABOUT ME
+I am a fresher with 1 year of experience in software development. I know Python and have done some projects. Looking for a data engineering role to grow my skills.
+
+EXPERIENCE
+Junior Developer – Startup XYZ (2023 – 2024)
+- Helped build a web app using Flask
+- Wrote some SQL queries
+- Did some data cleaning in Excel
+
+EDUCATION
+B.E. Information Technology – Mumbai University, 2023
+
+SKILLS
+Python, SQL, Flask, Excel, HTML, CSS, JavaScript
+
+PROJECTS
+College Library Management System – Python + MySQL

@@ -1,0 +1,28 @@
+Data Analyst – FinTech Platform
+
+About the Role:
+We are looking for a sharp Data Analyst to join our growing analytics team at a fast-scaling FinTech company. You will turn raw financial data into actionable insights that drive product and business decisions.
+
+Minimum Requirements:
+- 0-2 years of experience in data analysis or related field
+- Strong proficiency in Python and SQL
+- Experience with data visualization tools (Power BI or Tableau)
+- Hands-on experience with Excel and Google Sheets
+- Bachelor's degree in Computer Science, Data Science, Statistics, or related field
+
+Preferred / Nice-to-Have:
+- Knowledge of Machine Learning basics
+- Experience with Pandas and NumPy
+- Familiarity with dashboarding and KPI reporting
+- FinTech or banking domain exposure
+
+Key Responsibilities:
+- Analyze large datasets to identify trends and business insights
+- Build interactive dashboards and reports for stakeholders
+- Write complex SQL queries for data extraction and transformation
+- Collaborate with product, engineering, and finance teams
+- Present findings clearly to both technical and non-technical audiences
+
+Domain: FinTech
+Seniority: Junior
+Location: Mumbai / Remote (India)

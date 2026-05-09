@@ -1,0 +1,152 @@
+{
+  "generated_at": "2026-05-09T22:38:06.645314",
+  "job_title": "Data Analyst – FinTech Platform",
+  "total_candidates": 5,
+  "shortlist": [
+    {
+      "rank": 1,
+      "name": "Priya Sharma",
+      "weighted_total": 5.08,
+      "recommendation": "MAYBE",
+      "dimension_scores": {
+        "skills_match": {
+          "score": 10,
+          "justification": "100% of required skills found."
+        },
+        "experience_relevance": {
+          "score": 0.0,
+          "justification": "0.0y experience vs 2y required."
+        },
+        "education_certs": {
+          "score": 6.5,
+          "justification": "Has 1 cert(s)."
+        },
+        "project_portfolio": {
+          "score": 3.0,
+          "justification": "0 project(s); portfolio absent."
+        },
+        "communication": {
+          "score": 5.0,
+          "justification": "Resume ~162 words."
+        }
+      },
+      "overall_summary": "Weighted score: 5.08/10. Recommendation: MAYBE."
+    },
+    {
+      "rank": 2,
+      "name": "Arjun Mehta",
+      "weighted_total": 4.85,
+      "recommendation": "NO-HIRE",
+      "dimension_scores": {
+        "skills_match": {
+          "score": 10,
+          "justification": "100% of required skills found."
+        },
+        "experience_relevance": {
+          "score": 0.0,
+          "justification": "0.0y experience vs 2y required."
+        },
+        "education_certs": {
+          "score": 5.0,
+          "justification": "No certs detected."
+        },
+        "project_portfolio": {
+          "score": 3.0,
+          "justification": "0 project(s); portfolio absent."
+        },
+        "communication": {
+          "score": 5.0,
+          "justification": "Resume ~93 words."
+        }
+      },
+      "overall_summary": "Weighted score: 4.85/10. Recommendation: NO-HIRE."
+    },
+    {
+      "rank": 3,
+      "name": "Sneha Reddy",
+      "weighted_total": 4.85,
+      "recommendation": "NO-HIRE",
+      "dimension_scores": {
+        "skills_match": {
+          "score": 10,
+          "justification": "100% of required skills found."
+        },
+        "experience_relevance": {
+          "score": 0.0,
+          "justification": "0.0y experience vs 2y required."
+        },
+        "education_certs": {
+          "score": 5.0,
+          "justification": "No certs detected."
+        },
+        "project_portfolio": {
+          "score": 3.0,
+          "justification": "0 project(s); portfolio absent."
+        },
+        "communication": {
+          "score": 5.0,
+          "justification": "Resume ~140 words."
+        }
+      },
+      "overall_summary": "Weighted score: 4.85/10. Recommendation: NO-HIRE."
+    },
+    {
+      "rank": 4,
+      "name": "Vikram Nair",
+      "weighted_total": 4.85,
+      "recommendation": "NO-HIRE",
+      "dimension_scores": {
+        "skills_match": {
+          "score": 10,
+          "justification": "100% of required skills found."
+        },
+        "experience_relevance": {
+          "score": 0.0,
+          "justification": "0.0y experience vs 2y required."
+        },
+        "education_certs": {
+          "score": 5.0,
+          "justification": "No certs detected."
+        },
+        "project_portfolio": {
+          "score": 3.0,
+          "justification": "0 project(s); portfolio absent."
+        },
+        "communication": {
+          "score": 5.0,
+          "justification": "Resume ~136 words."
+        }
+      },
+      "overall_summary": "Weighted score: 4.85/10. Recommendation: NO-HIRE."
+    },
+    {
+      "rank": 5,
+      "name": "Rahul Gupta",
+      "weighted_total": 3.5,
+      "recommendation": "NO-HIRE",
+      "dimension_scores": {
+        "skills_match": {
+          "score": 5.5,
+          "justification": "50% of required skills found."
+        },
+        "experience_relevance": {
+          "score": 0.0,
+          "justification": "0.0y experience vs 2y required."
+        },
+        "education_certs": {
+          "score": 5.0,
+          "justification": "No certs detected."
+        },
+        "project_portfolio": {
+          "score": 3.0,
+          "justification": "0 project(s); portfolio absent."
+        },
+        "communication": {
+          "score": 5.0,
+          "justification": "Resume ~69 words."
+        }
+      },
+      "overall_summary": "Weighted score: 3.5/10. Recommendation: NO-HIRE."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+Vikram Nair
+vikram.nair@protonmail.com | +91 65432 10987
+
+PROFILE
+10 years of experience in software engineering, primarily in backend systems and databases. Transitioning into data engineering. Strong Java and SQL background.
+
+EXPERIENCE
+Lead Software Engineer – Insurance Corp (2018 – Present)
+- Architected microservices platform handling 1M daily transactions
+- Led team of 8 engineers
+- Heavily used Oracle SQL and Java Spring
+- Some experience with Apache Kafka for event streaming
+
+Software Engineer – IT Services Company (2014 – 2018)
+- Java backend development
+- Oracle and MySQL database work
+- Basic Python scripting
+
+EDUCATION
+MCA – Pune University, 2014
+
+CERTIFICATIONS
+Oracle Certified Professional
+
+SKILLS
+Java, Python, SQL, Oracle, MySQL, Kafka, Spring Boot, Maven, Git, Linux, REST APIs
+
+PROJECTS
+Transaction Monitoring System – Java + Oracle + Kafka
+Report Automation – Python scripts for weekly reports

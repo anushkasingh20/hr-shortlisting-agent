@@ -1,0 +1,30 @@
+Priya Sharma
+priya.sharma@email.com | +91 98765 43210 | github.com/priyasharma
+
+SUMMARY
+Senior Data Engineer with 6 years of experience building scalable data pipelines and ML infrastructure in FinTech. AWS Certified Solutions Architect. Strong Python and SQL skills.
+
+EXPERIENCE
+Senior Data Engineer – PayTech Solutions (2021 – Present)
+- Built real-time Kafka pipelines processing 5M events/day
+- Migrated legacy ETL to Apache Airflow + dbt
+- Reduced pipeline failures by 40% through automated monitoring
+
+Data Engineer – BankSoft India (2018 – 2021)
+- Developed Spark jobs for fraud detection ML features
+- Maintained PostgreSQL and MongoDB databases
+- Collaborated with ML team on feature engineering
+
+EDUCATION
+B.Tech Computer Science – IIT Delhi, 2018
+
+CERTIFICATIONS
+AWS Certified Solutions Architect
+dbt Certified Developer
+
+SKILLS
+Python, SQL, Apache Spark, Kafka, Airflow, dbt, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, Terraform, Git, CI/CD, Pandas, NumPy, Scikit-learn, PySpark, Redis
+
+PROJECTS
+Real-time Fraud Detection Pipeline – Kafka + Spark + ML model serving
+Data Quality Framework – Automated testing for 50+ pipelines

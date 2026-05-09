@@ -1,0 +1,30 @@
+Sneha Reddy
+sneha.reddy@outlook.com | +91 76543 21098 | github.com/snehareddy
+
+SUMMARY
+4 years of experience as a Backend Developer in e-commerce. Proficient in Python and SQL. Recently upskilling in cloud and big data technologies.
+
+EXPERIENCE
+Backend Developer – ShopFast E-commerce (2020 – Present)
+- Built microservices in Python (FastAPI, Django)
+- Designed PostgreSQL schemas for product catalogue
+- Integrated Redis caching, reduced API latency by 60%
+- Basic Docker usage for local development
+
+Software Developer – TechCorp (2019 – 2020)
+- Java Spring Boot REST APIs
+- MySQL database management
+
+EDUCATION
+B.Tech Electronics – BITS Pilani, 2019
+
+CERTIFICATIONS
+Google Cloud Associate Cloud Engineer (in progress)
+
+SKILLS
+Python, Java, FastAPI, Django, PostgreSQL, MySQL, Redis, Docker, Git, SQL, REST APIs, JavaScript
+
+PROJECTS
+E-commerce Recommendation Engine – Python + PostgreSQL + Redis
+Inventory Automation Bot – Python scripts for automated stock alerts
+Portfolio: github.com/snehareddy
